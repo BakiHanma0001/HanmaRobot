@@ -98,7 +98,7 @@ async def msg(event):
 <b>● ᴛᴏᴛᴀʟ ʟᴇᴠᴇʟ ᴅᴏᴍᴀɪɴ ➥</b> {lanester}
 <b>● ᴡɪᴋɪᴘᴇᴅɪᴀ ➥</b> {wiki}
 
-<b>❖ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ʙʏ ➥ @{BOT_USERNAME}</b>
+<b>❖ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ʙʏ ➥ ˹ ʜᴀɴᴍᴀ ꭙ ʀᴏʙᴏᴛ™ ♡゙(https://t.me/hanmaXrobot)</b>
 """
 
     await borg.send_message(
