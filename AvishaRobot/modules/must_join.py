@@ -5,7 +5,7 @@ from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForb
 from AvishaRobot import pbot as app
 
 #--------------------------
-MUST_JOIN = "The_friendz"
+MUST_JOIN = "Satan_Fucker"
 #------------------------
 
 NYKAA = [
@@ -29,12 +29,12 @@ async def must_join_channel(app: Client, msg: Message):
             link = chat_info.invite_link
         try:
             await msg.reply_photo(
-                random.choice(NYKAA), caption=f"❖ ʜᴇʏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ᴜʜʜ. ♥︎\n\n● ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ๛ᴀ ᴠ ɪ s ʜ ᴀ ♡゙ ʙᴏᴛ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴀɴᴅ ʏᴏᴜ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀʟʟ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [๛ᴀ ᴠ ɪ s ʜ ᴀ ࿐](https://t.me/avishaxbot)",
+                random.choice(NYKAA), caption=f"❖ ʜᴇʏ ᴛʜᴇʀᴇ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ᴜʜʜ. ♥︎\n\n● ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ๛ʜ ᴀ ɴ ᴍ ᴀ ♡゙ ʙᴏᴛ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴀɴᴅ ʏᴏᴜ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀʟʟ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs.\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ [๛ʜ ᴀ ɴ ᴍ ᴀ ࿐](https://t.me/hanmaXrobot)",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/choti_bachii"),
-                            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=link),
+                            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/Satan_Network"),
+                            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="Satan_Fucker"),
                         ],
                     ]
                 )
